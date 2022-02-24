@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url();
+}
+
+@font-face{
+    font-family: 'headlines';
+    src: url(/Headlines-Bold.otf);
+}
+
+@font-face{
+    font-family: 'coolvetica';
+    src: url(coolvetica\ rg.otf);
+}
+
+@font-face{
+    font-family: 'bold';
+    src: url(Roboto-Bold.otf);
+}
+
+.logo{
+    height: 45px;
+    width: 45px;
+    float: left;
+    margin-top: 2px;
+    margin-right: 5px;
+    margin-left: 3px;
+}
+
+.puntitos{
+    height: 40px;
+    width: 20px;
+    margin-top: 4.5px;
+    cursor: pointer;
+    float: right;
+}
+
+.puntitos:active{
+    transform: scale(0.9);
+}
+
+.img-menu{
+    height: 40px;
+    width: 40px;
+    float: right;
+}
+
+.header{
+    background-color: white;
+    width: 100%;
+    border-bottom: 1px solid black;
+    min-height: 50px;
+}
+
+.titulo-principal{
+    font-family: 'headlines';
+    font-size: 100px;
+    margin-top: 100px;
+    position: fixed;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background: rgb(255, 255, 255);
+    min-width: 10%;
+    display: none;
+    transition: all 0.9s;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    position: absolute;
+    right: 0;
+}
+
+.lista-menu{
+    display: block;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 1.2em;
+    text-decoration: none;
+    font-family: 'coolvetica';
+}
+
+.mostrar{
+    display: block;
+}
+
+.titulo-productos{
+    font-family: 'headlines';
+    font-size: 100px;
+    margin-top: 100px;
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.twitch{
+    color: white;
+    background-color: #934aff;
+    border-radius: 15px;
+    text-decoration: none;
+    font-family: 'bold';
+    font-size: 100px;
+    margin-top: 100px;
+    position: fixed;
+    top: 40%;
+    left: 66%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 57.57px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+}
+
+.twitch:hover{
+    background-color: #924aff7e;
+}
+
+.youtube{
+    color: white;
+    background-color: #ff0000;
+    border-radius: 15px;
+    text-decoration: none;
+    font-family: 'bold';
+    font-size: 100px;
+    margin-top: 100px;
+    position: fixed;
+    top: 40%;
+    left: 34%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+}
+
+.youtube:hover{
+    background-color: #ff00007e;
+}
+
+.flecha{
+    position: fixed;
+    top: 25%;
+    left: 85%;
+    height: 50px;
+    width: 50px;
+}
+
+.flecha:hover{
+    transform: rotate(180deg);
+    transition: all 1s;
+}
+
+.titulo-secundarios{
+    font-family: 'headlines';
+    font-size: 100px;
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+#inicio:hover{
+    background-color: rgba(0, 0, 0, 0.10);
+}
+
+#productos:hover{
+    background-color: rgba(0, 0, 0, 0.10);
+}
+
+#ayuda:hover{
+    background-color: rgba(0, 0, 0, 0.10);
+}
+
+.iconos{
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
+
+#help{
+    display: none;
+}
+
+@media screen {
+    
+}
+
+
+
+
+
+
+
+
+
+
