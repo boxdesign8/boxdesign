@@ -197,9 +197,16 @@ body{
     display: none;
 }
 
-@media screen {
-    
+@media (max-width: 600px) {
+    .flecha{
+        display: none;
+    }
+
+    .titulo-principal{
+        font-size: 50px;
+    }
 }
+
 
 
 
