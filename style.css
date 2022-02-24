@@ -206,6 +206,24 @@ body{
         font-size: 50px;
         font-family: 'coolvetica';
     }
+    
+    .titulo-productos{
+        font-size: 50px;
+        font-family: 'coolvetica';
+    }
+
+    .titulo-secundarios{
+        font-size: 50px;
+        font-family: 'coolvetica';
+    }
+
+    .youtube{
+        font-size: 50px;
+    }
+
+    .twitch{
+        font-size: 50px;
+    }
 }
 
 
