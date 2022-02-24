@@ -205,11 +205,13 @@ body{
     .titulo-principal{
         font-size: 50px;
         font-family: 'coolvetica';
+        letter-spacing: 2px;
     }
     
     .titulo-productos{
         font-size: 50px;
         font-family: 'coolvetica';
+        letter-spacing: 2px;
     }
 
     .titulo-secundarios{
