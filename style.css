@@ -218,12 +218,19 @@ body{
     }
 
     .youtube{
-        font-size: 50px;
+        font-size: 60px;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
     }
 
     .twitch{
         font-size: 50px;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
     }
+
 }
 
 
