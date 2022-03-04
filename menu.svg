@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="1100"
+   viewBox="0 0 132.29166 291.04167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="menu.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     width="500px"
+     inkscape:zoom="0.2755"
+     inkscape:cx="-143.37568"
+     inkscape:cy="508.16697"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="26.44966,145.01896"
+       orientation="1,0"
+       id="guide6138" />
+    <sodipodi:guide
+       position="67.49562,92.604165"
+       orientation="0,-1"
+       id="guide6140" />
+    <sodipodi:guide
+       position="-446.56395,105.83436"
+       orientation="0,-1"
+       id="guide6142" />
+    <sodipodi:guide
+       position="67.443944,92.11634"
+       orientation="1,0"
+       id="guide6144" />
+    <sodipodi:guide
+       position="-132.55211,187.8552"
+       orientation="0,-1"
+       id="guide6146" />
+    <sodipodi:guide
+       position="20.312275,201.08417"
+       orientation="0,-1"
+       id="guide6148" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <circle
+       style="fill:#efa94a;fill-opacity:1;stroke:#efa94a;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path848"
+       cx="67.445206"
+       cy="48.97068"
+       r="38.341042" />
+  </g>
+  <g
+     inkscape:label="Capa 1 copia"
+     inkscape:groupmode="layer"
+     id="g5340"
+     style="display:inline">
+    <circle
+       style="fill:#ec7c26;fill-opacity:1;stroke:#ec7c26;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="circle5338"
+       cx="67.445206"
+       cy="144.22067"
+       r="38.341042" />
+  </g>
+  <g
+     inkscape:label="Capa 1 copia copia"
+     inkscape:groupmode="layer"
+     id="g5424"
+     style="display:inline">
+    <circle
+       style="fill:#7fb5b5;fill-opacity:1;stroke:#7fb5b5;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="circle5422"
+       cx="67.445206"
+       cy="239.42438"
+       r="38.341042" />
+  </g>
+</svg>
