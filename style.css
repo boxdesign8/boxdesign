@@ -220,20 +220,84 @@ body{
         margin-top: 30px;
     }
 
-    .youtube{
-        font-size: 60px;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+    #webcam{
+        font-size: 45px;
+        padding-top: 10px;
+        padding-left: 14px;
     }
 
-    .twitch{
-        font-size: 50px;
-        top: 30%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+    #ya-comenzamos{
+        font-size: 30px;
+        padding-top: 0px;
+        padding-left: 7px;
     }
 
+    #miniaturas{
+        font-size: 38px;
+        padding-left: 6px;
+        padding-top: 15px;
+    }
+
+}
+
+.productos-boton{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    text-decoration: none;
+    font-family: 'bold';
+    font-size: 50px;
+    margin-top: 8px;
+    position: fixed;
+    text-align: center;
+    padding: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    width: 39%;
+    height: 75px;
+    border-radius: 10px;
+}
+
+#logo{
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    background-color: #EFA94A ;
+}
+
+#webcam{
+    top: 65%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    background-color: #EC7C26 ;
+}
+
+#banner{
+    top: 80%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    background-color: #7FB5B5 ;
+}
+
+#offline{
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    background-color: #EFA94A ;
+}
+
+#ya-comenzamos{
+    top: 65%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    background-color: #EC7C26 ;
+}
+
+#miniaturas{
+    top: 80%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    background-color: #7FB5B5 ;
 }
 
 
